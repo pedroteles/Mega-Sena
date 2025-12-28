@@ -7,7 +7,7 @@ This Python script generates a secure random number between 1 and 60, suitable f
 Run the script with Python:
 
 ```bash
-python main.py
+python simulacao_e_historico.py
 ```
 
 The script will output a random number, e.g., "Número Seguro: 42"
